@@ -1,0 +1,65 @@
+
+body{
+font-family:aldrich;
+
+}
+
+
+#schedule-container{
+margin:0px auto;
+width:968px;
+border:1px solid black;
+}
+
+#user-details{
+width:950px;
+margin:0px auto;
+}
+
+#day1-container{
+margin:0px auto;
+}
+
+#day2-container{
+margin:0px auto;
+}
+
+#day3-container{
+margin:0px auto;
+}
+
+.schedule{
+padding-top: 35px;
+}
+
+table{
+text-align:center;
+width:960px;
+margin: 0px auto;
+}
+
+.slot1{
+background-color:#A1FFB0;
+}
+
+.slot2{
+background-color:#FDFD9F;
+}
+
+.slot3{
+background-color:#FF8989;
+}
+
+.full{
+background-color:white;
+color:red;
+}
+
+.robotics{
+background-color:#D3ABFF;
+}
+
+.colorcode{
+padding-top: 35px;
+padding-bottom: 10px;
+}
