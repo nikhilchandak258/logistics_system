@@ -1,0 +1,44 @@
+#isaac_links_wrapper{
+padding-top: 40px;
+height:60px;
+width:800px;
+padding-left: 17px;
+}
+
+
+.isaac_links{
+width:968px;
+text-align:center;
+list-style: none;
+padding-left: 28px;
+margin: 0px auto;
+padding: 0px;
+clear: both;
+padding-top: 10px;
+height: 25px;
+overflow: hidden;
+}
+
+.isaac_links li{
+height: 40px;
+width: 120px;
+background-color: rgb(237, 237, 237);
+box-shadow: 0px 0px 0px 0px;
+display: inline;
+padding: 8px 45px; 
+}
+
+.isaac_links li:hover{
+background-color:rgba(206, 206, 206, 0.82);
+cursor:pointer;
+}
+
+.isaac_links a{
+text-decoration: none;
+color: black;
+}
+
+
+.isaac_events_wrapper{
+overflow: hidden;
+}
