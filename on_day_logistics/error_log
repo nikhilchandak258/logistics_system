@@ -1,0 +1,21 @@
+[28-Sep-2013 21:13:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/isaaclbq/public_html/dayon/index.php:7) in /home/isaaclbq/public_html/dayon/index.php on line 43
+[28-Sep-2013 21:15:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/isaaclbq/public_html/dayon/index.php:26) in /home/isaaclbq/public_html/dayon/index.php on line 62
+[28-Sep-2013 22:37:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/isaaclbq/public_html/dayon/index.php:26) in /home/isaaclbq/public_html/dayon/index.php on line 62
+[28-Sep-2013 22:37:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/isaaclbq/public_html/dayon/index.php:26) in /home/isaaclbq/public_html/dayon/index.php on line 62
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
+[28-Sep-2013 22:44:19] PHP Warning:  mysql_field_name(): supplied argument is not a valid MySQL result resource in /home/isaaclbq/public_html/dayon/displayUpdate.php on line 95
