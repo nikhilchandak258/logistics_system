@@ -1,0 +1,2 @@
+# logistics_system
+The front-end was developed using HTML &amp; CSS. Content is retrived using PHP from text files. For back-end MySQL database is used with PHP as the connecting language. The aim of the project was to develop a stable registration system for participants attending ISAAC (IEEE-TSEC Students’ Activities And Conferences).The system managed the details of over 3000 participants and allowed them to choose from over 50 events. 
